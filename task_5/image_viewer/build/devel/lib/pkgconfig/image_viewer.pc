@@ -1,0 +1,8 @@
+prefix=/home/ahmed/ROS_WS/src/image_viewer/build/devel
+
+Name: image_viewer
+Description: Description of image_viewer
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
