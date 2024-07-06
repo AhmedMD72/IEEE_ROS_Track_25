@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: my_frist_service
+Description: Description of my_frist_service
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

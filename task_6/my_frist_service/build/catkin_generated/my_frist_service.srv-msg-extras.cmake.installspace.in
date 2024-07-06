@@ -1,0 +1,2 @@
+set(my_frist_service.srv_MESSAGE_FILES "")
+set(my_frist_service.srv_SERVICE_FILES "srv/AddTwoIntsSrv.srv")

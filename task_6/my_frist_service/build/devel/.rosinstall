@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/ahmed/ROS_WS/src/my_frist_service/build/devel/setup.sh
