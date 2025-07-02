@@ -29,8 +29,8 @@ cd ~/catkin_ws
 catkin_make
 ```
 # Step 3 – Launch the Robot in Gazebo
-```bash
 To run the robot simulation in Gazebo, execute the following:
+```bash
 roslaunch milestone2_robot gazebo.launch 
 ```
 
