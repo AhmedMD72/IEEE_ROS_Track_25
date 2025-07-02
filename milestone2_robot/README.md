@@ -35,7 +35,9 @@ To run the robot simulation in Gazebo, execute the following:
 ```bash
 roslaunch milestone2_robot gazebo.launch 
 ```
-![Screenshot from 2025-07-02 22-25-57](https://github.com/user-attachments/assets/9b05c169-f6a0-4bbd-8afc-3960e0e555d2)
+![Screenshot from 2025-07-02 22-38-22](https://github.com/user-attachments/assets/2ddef5ac-bbbc-4d39-ba0b-87d8783c87a1)
+![Screenshot from 2025-07-02 22-39-06](https://github.com/user-attachments/assets/eee20044-6248-454d-a1bd-87e1ba9dc444)
+
 
 
 # Step 4 – Launch Rviz for Visualization
@@ -43,6 +45,8 @@ To visualize the robot and its environment using Rviz:
 ```bash
 roslaunch milestone2_robot display.launch 
 ```
+![Screenshot from 2025-07-02 22-40-27](https://github.com/user-attachments/assets/30920747-9946-48de-86d4-de3fd047d329)
+
 # Notes
 ⚠️ If Gazebo doesn't open properly or the robot doesn't appear, you can forcefully kill any Gazebo-related processes using:
 ``` bash
