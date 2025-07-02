@@ -1,2 +1,0 @@
-set(my_frist_service.srv_MESSAGE_FILES "")
-set(my_frist_service.srv_SERVICE_FILES "/home/ahmed/ROS_WS/src/my_frist_service/srv/AddTwoIntsSrv.srv")
