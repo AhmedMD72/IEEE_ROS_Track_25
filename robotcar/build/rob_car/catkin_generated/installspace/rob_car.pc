@@ -1,8 +1,0 @@
-prefix=/home/ahmed/D_/IEEE_RAS/first_milestone/robotcar/install
-
-Name: rob_car
-Description: Description of rob_car
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
