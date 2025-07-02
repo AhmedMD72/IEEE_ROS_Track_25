@@ -6,10 +6,6 @@ This project demonstrates building and simulating a robot using ROS Noetic,Gazeb
 # Step 1 – Create the ROS Package
 Before running the project, create a new ROS package inside your existing `catkin_ws` workspace.
 ```bash
-cd ~/catkin_ws/src
-catkin_create_pkg milestione_two rospy std_msgs geometry_msgs sensor_msgs
-cd ~/catkin_ws
-catkin_make
 # Navigate to the src directory of your workspace
 cd ~/catkin_ws/src
 # Create a new package (you can rename "my_robot_pkg" )
