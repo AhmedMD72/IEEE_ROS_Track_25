@@ -19,7 +19,7 @@ catkin_make
 ```
 # Step 2 – Copy Project Files into the Package
 Now, copy the contents of this repository `milestone2_robot` into your newly created package directory `my_robot_pkg`
-# Replace /path/to/IEEE_ROS_Track_25 with the actual path to the downloaded folder
+`#`Replace `/path/to/IEEE_ROS_Track_25` with the actual path to the downloaded folder
 ```bash
 
 cp -r ~/IEEE_ROS_Track_25/milestone2_robot ~/catkin_ws/src/my_robot_pkg/
