@@ -1,0 +1,8 @@
+prefix=/home/ahmed/D_/IEEE_RAS/first_milestone/robotcar/devel
+
+Name: robotcar_ros
+Description: Description of robotcar_ros
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
